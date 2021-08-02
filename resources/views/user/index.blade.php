@@ -14,7 +14,7 @@
         </div>
 
         <div class="box-header">
-            <a href="/register" class="btn btn-primary" >Add User</a>
+            <a href="/register" class="btn btn-primary" >Tambah Pengguna</a>
         </div>
 
 
